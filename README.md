@@ -1,4 +1,4 @@
-# Applied Transfer Learning & LLM Fine-Tuning Labs
+# Applied Transfer Learning & LLM Fine-Tuning Labs 
 
 This repository contains a collection of Jupyter Notebooks focusing on Transfer Learning, Large Language Models (LLMs), and Computer Vision. The projects range from fundamental concepts of text generation and prompt engineering to advanced efficient fine-tuning techniques (PEFT, QLoRA) applied to medical and general domains.
 
